@@ -6,4 +6,4 @@ where the user travels to
 -Use all of the inputted information to output a report on the total amount of money necessary to travel to
 such country
 
--Contains 1 file: 
+-Contains 1 file: TripExpenses.java
